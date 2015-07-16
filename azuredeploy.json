@@ -29,11 +29,15 @@
         "2"
       ],
       "defaultValue": "0"
-    },
-    "someAppSetting": {
-      "type": "string",
-      "defaultValue": "Test App Setting Value"
-    },
+    },       
+    "aadClientId": { 
+         "type": "string", 
+         "defaultValue": "17e25de3-5f4b-4a9a-ae6f-f490324951d5" 
+       }, 
+       "aadClientSecret": { 
+         "type": "string", 
+         "defaultValue": "q+iQl73xlnNrFu+M0nFc1UI9mTYFzbGLbz0IRWgRMsk=" 
+       }, 
     "repoUrl": {
       "type": "string"
     },
